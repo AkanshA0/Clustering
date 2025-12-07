@@ -1,4 +1,4 @@
-# Clustering Algorithms – Assignment Repository
+# Clustering Algorithms
 
 This repository contains a collection of Google Colab notebooks demonstrating a wide range of clustering algorithms, evaluation metrics, visualization techniques, and modern embedding-based clustering methods.  
 The purpose of these experiments is to understand classical clustering approaches, explore modern embedding techniques, and apply clustering to structured, text, image, audio, and time-series datasets.
